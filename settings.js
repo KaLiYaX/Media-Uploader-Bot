@@ -1,5 +1,5 @@
 const config = {
-  botToken: "YOUR_TOKEN_BOT_TELEGRAM", 
+  botToken: "8174339289:AAFxOSyUA_75SrlsZqWf7J8c2P_KRckQ9Bk", 
   message: {
     success: "Done!",
     error: "Internal server error!",
